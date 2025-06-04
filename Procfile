@@ -1,2 +1,2 @@
 #worker: python main.py
-web: python3 modules/main.py
+web: python main.py
