@@ -1,2 +1,2 @@
-worker: python main.py
-gunicorn app: app & python3 main.py
+#worker: python main.py
+web: python3 modules/main.py
